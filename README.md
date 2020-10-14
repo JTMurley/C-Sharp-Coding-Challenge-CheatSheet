@@ -20,7 +20,12 @@ Math.Pow(Number, Power); = Raise a number to a power function <br/>
 .Sort() - Sorts the list in ascending order <br/>
 .Reverse() = Reverse the list order, usefull if you need descending order instead of ascending after using .Sort() <br/>
 .ForEach(Console.WriteLine) = quick foreach iterator <br/>
-.Min() = Returns the min value
-.Max() = Returns the max value
-.Sum() = Returns the sum of the array/list
+.Min() = Returns the min value <br/>
+.Max() = Returns the max value <br/>
+.Sum() = Returns the sum of the array/list <br/>
+
+## String Based Features
+
+STRING.Contains(',') = Checks to see if a string contains that specific value
+string[] tokens = STRING.Split(',') = Splits the string up based on that value into the array
 
