@@ -26,6 +26,6 @@ Math.Pow(Number, Power); = Raise a number to a power function <br/>
 
 ## String Based Features
 
-STRING.Contains(',') = Checks to see if a string contains that specific value
-string[] tokens = STRING.Split(',') = Splits the string up based on that value into the array
+STRING.Contains(',') = Checks to see if a string contains that specific value <br/>
+string[] tokens = STRING.Split(',') = Splits the string up based on that value into the array <br/>
 
