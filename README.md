@@ -11,7 +11,7 @@ using System.Collections.Generic;<br/>
 
 ## Common Syntax
 
-List = var numbers = new List"<int>"();<br/>
+\List = var numbers = new List<int>();<br/>
 Pow = Math.Pow(Number, Power);
 
 
