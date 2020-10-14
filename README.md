@@ -12,6 +12,7 @@ using System.Collections.Generic;<br/>
 ## Common Syntax
 
 List = List<int> numberList = new List<int>();<br/>
+Pow = Math.Pow(Number, Power);
 
 
 ## Linq Features 
