@@ -2,16 +2,16 @@
 
 ## Common Library Imports
 
-using System;
-using System.Linq;
-using System.IO;
-using System.Text;
-using System.Collections;
-using System.Collections.Generic;
+using System;<br/>
+using System.Linq;<br/>
+using System.IO;<br/>
+using System.Text;<br/>
+using System.Collections;<br/>
+using System.Collections.Generic;<br/>
 
 ## Common Syntax
 
-List = List<int> numberList = new List<int>();
+List = List<int> numberList = new List<int>();<br/>
 
 
 ## Linq Features 
