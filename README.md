@@ -19,3 +19,4 @@ Pow = Math.Pow(Number, Power);
 
 .Sort() - Sorts the list in ascending order <br/>
 .Reverse() = Reverse the list order, usefull if you need descending order instead of ascending after using .Sort()
+.ForEach(Console.WriteLine) = quick foreach iterator
