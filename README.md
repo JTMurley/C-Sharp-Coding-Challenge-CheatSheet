@@ -14,7 +14,6 @@ using System.Text.RegularExpressions;<br/>
 
 var numbers = new List\<int\>(); = create a new list<br/>
 int[] array1 = new int[5]; = Create a new array <br/>
-Math.Pow(Number, Power); = Raise a number to a power function <br/>
 
 
 ## Linq Features 
@@ -31,3 +30,6 @@ Math.Pow(Number, Power); = Raise a number to a power function <br/>
 STRING.Contains(','); = Checks to see if a string contains that specific value <br/>
 string[] tokens = STRING.Split(','); = Splits the string up based on that value into the array <br/>
 
+## Math Based Functions
+
+Math.Pow(Number, Power); = Raise a number to a power function <br/>
