@@ -13,6 +13,7 @@ using System.Text.RegularExpressions;<br/>
 ## Common Syntax
 
 var numbers = new List\<int\>(); = create a new list<br/>
+int[] array1 = new int[5]; = Create a new array <br/>
 Math.Pow(Number, Power); = Raise a number to a power function <br/>
 
 
